@@ -18,7 +18,7 @@ Weekday Performance Analysis – Analyzed engagement patterns by day of the week
 Sentiment Classification – Categorized user comments into positive, neutral, and negative sentiments to understand audience tone.
 Monthly Sentiment Trends – Tracked sentiment distribution across months to evaluate shifts in user perception and emotional response.
 
-3. Content Virality & KPIs
+3. Content Virality & KPIs: 
 
 Content-Type Performance Analysis – Evaluated engagement by post type (image, video, carousel, text, etc.) to find the most viral formats.
 Virality & Engagement KPIs – Measured total engagement, virality score, and sentiment metrics using KPI cards for quick performance insights.
