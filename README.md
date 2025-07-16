@@ -42,7 +42,7 @@ Power BI for data cleaning, analysis, and creating interactive dashboards and vi
 4. Carousel and video posts drove the most engagement, highlighting that interactive and visual content formats tend to perform better.
 5. Virality scores and engagement metrics peaked simultaneously, showing that highly engaging content also tends to spread rapidly, especially on Instagram.
 
-# Questiions 
+# Questions 
 
 The following questions guided the structure and design of the Power BI dashboard for this Social Media Engagement Analysis project. The analysis focused on three core areas: Trend Analysis, Sentiment Modeling, and Content Virality, supported by key performance indicators (KPIs).
 
